@@ -225,7 +225,7 @@ astralsorcery.journal.ILLUM_POWDER.1.text=萤石和海蓝宝石在靠近时会�
 
 research.NOC_POWDER.name=暗夜粉
 astralsorcery.journal.NOC_POWDER.1.text=黑夜中隐藏着许多危险，还带来了无数充满恶意的生物。这些怪物本身并不常见，但它们拥有的东西却是人人梦寐以求的。<NL>不幸的是，这些生物要么不在白天时出现，要么在光照下没有攻击性。在辉光粉内加入一些添加剂使其变成暗色，这有助于生成这些敌对生物。
-astralsorcery.journal.NOC_POWDER.3.text=可以右击一个方块生成黑暗区域几秒钟，但这么近的距离使用它可不是什么好主意。它可以想辉光粉一样直接投射出去，并在掉落点形成黑暗区域。<NL>由于粉末自身的专一效果，位置太靠近的话会降低效率。
+astralsorcery.journal.NOC_POWDER.3.text=可以右击一个方块生成黑暗区域几秒钟，但这么近的距离使用它可不是什么好主意。它可以像辉光粉一样直接投射出去，并在掉落点形成黑暗区域。<NL>由于粉末自身的专一效果，位置太靠近的话会降低效率。
 
 research.SKY_RESO.name=法斯刻共振器
 astralsorcery.journal.SKY_RESO.1.text=用肉眼是无法直接分辨出特定区域的星辉强弱的。然而根据长期使用星辉合成台内的星能缓存库的经验，星辉的强弱因地而异，当星辉相互重叠时，星能可能增强或减弱。<NL>星辉祭坛以及其他需求星辉的结构在这个强星能区域将有更多的星能缓存。
